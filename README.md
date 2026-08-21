@@ -121,7 +121,7 @@ The trained pipeline combines the TF-IDF vectorizer and selected classifier into
 
 # 📊 Dataset
 
-The project uses an NYSC FAQ dataset containing questions, answers, intents, and categories.
+The project uses an NYSC FAQ dataset sourced from the official NYSC website (https://www.nysc.gov.ng/faq.html) and other NYSC-related platforms. The dataset contains questions, answers, intents, and categories.categories.
 
 ### Dataset statistics
 
